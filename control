@@ -1,0 +1,9 @@
+Package: tf.festival.pointercontrolenabler
+Name: PointerControlEnabler
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enables Pointer Control settings for every accessory.
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Author: Sniper_GER <sniperger@festival.tf>
+Section: Tweaks
